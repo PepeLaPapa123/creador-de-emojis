@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+}
+
+h1
+{
+font-size: 40px;
+font-family: sans-serif;
+font-weight: bold;
+}
+
+#app
+{
+    background-color:#3AA5FE ;
+}
+
+#game
+{
+    background-color: gold;
+}
+
+#chatBot
+{
+    background-color: lightgreen;
+}
+
+#img2
+{
+    width: 244px;
+}
